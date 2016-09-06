@@ -1,6 +1,6 @@
 {Constants, RootContext} = require './runtime'
 
-# comment testing
+# comment testing 1
 
 exports.Base = class Base
   @new: ->
