@@ -9,7 +9,7 @@ if 0 {
 console.log '===== THE CODE =====\n\n' + code + '\n\n===== END CODE =====\n\n\n\n'
 
 
-
+lolo
 fs = require('fs')
 jison = require("jison")
 bnf = fs.readFileSync("./grammar.jison", "utf8")
