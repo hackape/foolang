@@ -1,6 +1,6 @@
 Constants = {}
 
-class BaseObject
+class BaseObjecta
   constructor: (__class__, __value__) ->
     @__class__ = __class__
     @__value__ = if arguments.length == 1 then this else __value__ 
